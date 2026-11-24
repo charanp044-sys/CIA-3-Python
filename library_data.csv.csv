@@ -1,0 +1,101 @@
+Book_ID,Book_Title,Author,Category,Total_Copies,Available_Copies,Student_ID,Student_Name,Department,Issue_Date,Return_Date,Status
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU021,Farhan Ali,MCA,2026-08-04,2026-08-13,Returned
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU008,Ananya Iyer,MCA,2026-11-03,,Issued
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU024,Ayesha Khan,MCA,2026-08-12,2026-08-15,Returned
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU001,Arun Kumar,MCA,2026-08-28,,Issued
+B001,Python Programming,John Zelle,Programming,8,7,STU020,Neha Thomas,BCA,2026-10-11,,Issued
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU021,Farhan Ali,MCA,2026-09-23,,Issued
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU019,Ramesh Babu,MCA,2026-11-12,2026-11-19,Returned
+B014,Learning SQL,Alan Beaulieu,Database,5,3,STU023,Harish Kumar,BCA,2026-09-13,,Issued
+B011,Machine Learning,Tom Mitchell,Artificial Intelligence,4,0,STU007,Vikram Singh,MBA,2026-08-14,,Issued
+B012,Data Science from Scratch,Joel Grus,Data Science,5,5,STU004,Divya Nair,MBA,2026-09-14,2026-09-17,Returned
+B015,Computer Graphics,Donald Hearn,Computer Science,4,3,STU024,Ayesha Khan,MCA,2026-10-08,,Issued
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU013,Sanjay Rao,MCA,2026-10-10,,Issued
+B020,Web Technologies,Uttam K. Roy,Web Development,6,6,STU021,Farhan Ali,MCA,2026-09-16,2026-09-20,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU002,Priya Sharma,MCA,2026-11-07,,Issued
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU003,Rahul Das,BCA,2026-08-13,2026-08-29,Returned
+B012,Data Science from Scratch,Joel Grus,Data Science,5,5,STU021,Farhan Ali,MCA,2026-08-21,2026-08-29,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU022,Swathi Rao,MBA,2026-10-29,2026-11-02,Returned
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU020,Neha Thomas,BCA,2026-10-08,2026-10-15,Returned
+B013,Introduction to Java,Herbert Schildt,Programming,6,3,STU015,Akhil Varma,BCA,2026-09-04,2026-09-23,Returned
+B011,Machine Learning,Tom Mitchell,Artificial Intelligence,4,0,STU008,Ananya Iyer,MCA,2026-11-07,2026-11-16,Returned
+B011,Machine Learning,Tom Mitchell,Artificial Intelligence,4,0,STU002,Priya Sharma,MCA,2026-09-21,,Issued
+B019,Cyber Security Essentials,Charles Brooks,Cyber Security,4,2,STU007,Vikram Singh,MBA,2026-10-31,,Issued
+B016,The Pragmatic Programmer,David Thomas,Programming,4,2,STU021,Farhan Ali,MCA,2026-09-20,2026-10-06,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU005,Kiran Reddy,MCA,2026-08-18,,Issued
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU018,Kavya Nair,MBA,2026-09-03,2026-09-18,Returned
+B013,Introduction to Java,Herbert Schildt,Programming,6,3,STU019,Ramesh Babu,MCA,2026-09-16,,Issued
+B017,Statistics for Engineers,William Navidi,Mathematics,5,2,STU005,Kiran Reddy,MCA,2026-10-03,,Issued
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU002,Priya Sharma,MCA,2026-08-20,2026-09-04,Returned
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU020,Neha Thomas,BCA,2026-09-19,2026-10-05,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU017,Manoj Kumar,BCA,2026-10-10,2026-10-12,Returned
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU022,Swathi Rao,MBA,2026-10-27,2026-11-06,Returned
+B011,Machine Learning,Tom Mitchell,Artificial Intelligence,4,0,STU025,Gautam Roy,MBA,2026-08-15,,Issued
+B015,Computer Graphics,Donald Hearn,Computer Science,4,3,STU006,Sneha Rao,BCA,2026-08-01,2026-08-11,Returned
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU017,Manoj Kumar,BCA,2026-10-04,2026-10-15,Returned
+B017,Statistics for Engineers,William Navidi,Mathematics,5,2,STU021,Farhan Ali,MCA,2026-10-17,,Issued
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU012,Nisha Patel,BCA,2026-10-09,2026-10-27,Returned
+B020,Web Technologies,Uttam K. Roy,Web Development,6,6,STU001,Arun Kumar,MCA,2026-09-11,2026-09-16,Returned
+B010,Computer Organization,Carl Hamacher,Computer Science,5,3,STU012,Nisha Patel,BCA,2026-08-31,,Issued
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU019,Ramesh Babu,MCA,2026-08-11,2026-08-15,Returned
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU025,Gautam Roy,MBA,2026-11-07,,Issued
+B016,The Pragmatic Programmer,David Thomas,Programming,4,2,STU022,Swathi Rao,MBA,2026-10-10,,Issued
+B020,Web Technologies,Uttam K. Roy,Web Development,6,6,STU017,Manoj Kumar,BCA,2026-09-24,2026-10-13,Returned
+B007,Artificial Intelligence: A Modern Approach,Stuart Russell,Artificial Intelligence,5,4,STU025,Gautam Roy,MBA,2026-10-31,,Issued
+B012,Data Science from Scratch,Joel Grus,Data Science,5,5,STU022,Swathi Rao,MBA,2026-09-26,2026-10-12,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU004,Divya Nair,MBA,2026-08-29,,Issued
+B019,Cyber Security Essentials,Charles Brooks,Cyber Security,4,2,STU001,Arun Kumar,MCA,2026-10-10,,Issued
+B001,Python Programming,John Zelle,Programming,8,7,STU008,Ananya Iyer,MCA,2026-08-10,2026-08-13,Returned
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU008,Ananya Iyer,MCA,2026-08-05,2026-08-09,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU017,Manoj Kumar,BCA,2026-09-05,2026-09-13,Returned
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU018,Kavya Nair,MBA,2026-11-01,2026-11-21,Returned
+B016,The Pragmatic Programmer,David Thomas,Programming,4,2,STU019,Ramesh Babu,MCA,2026-09-01,2026-09-16,Returned
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU007,Vikram Singh,MBA,2026-08-13,2026-08-26,Returned
+B014,Learning SQL,Alan Beaulieu,Database,5,3,STU014,Pooja Shah,MBA,2026-09-29,2026-10-02,Returned
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU022,Swathi Rao,MBA,2026-08-08,2026-08-20,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU004,Divya Nair,MBA,2026-08-25,,Issued
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU015,Akhil Varma,BCA,2026-09-24,,Issued
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU015,Akhil Varma,BCA,2026-08-10,2026-08-29,Returned
+B002,Database System Concepts,Abraham Silberschatz,Database,7,7,STU004,Divya Nair,MBA,2026-10-23,2026-10-25,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU003,Rahul Das,BCA,2026-08-22,2026-09-08,Returned
+B013,Introduction to Java,Herbert Schildt,Programming,6,3,STU007,Vikram Singh,MBA,2026-08-08,,Issued
+B013,Introduction to Java,Herbert Schildt,Programming,6,3,STU001,Arun Kumar,MCA,2026-09-03,2026-09-19,Returned
+B014,Learning SQL,Alan Beaulieu,Database,5,3,STU010,Meera Joseph,MCA,2026-10-29,2026-11-17,Returned
+B016,The Pragmatic Programmer,David Thomas,Programming,4,2,STU022,Swathi Rao,MBA,2026-08-20,,Issued
+B002,Database System Concepts,Abraham Silberschatz,Database,7,7,STU007,Vikram Singh,MBA,2026-10-14,2026-10-17,Returned
+B011,Machine Learning,Tom Mitchell,Artificial Intelligence,4,0,STU024,Ayesha Khan,MCA,2026-08-08,,Issued
+B017,Statistics for Engineers,William Navidi,Mathematics,5,2,STU016,Ishita Das,MCA,2026-10-07,,Issued
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU017,Manoj Kumar,BCA,2026-08-24,,Issued
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU003,Rahul Das,BCA,2026-09-21,,Issued
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU019,Ramesh Babu,MCA,2026-10-14,2026-11-04,Returned
+B014,Learning SQL,Alan Beaulieu,Database,5,3,STU003,Rahul Das,BCA,2026-10-24,2026-11-11,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU011,Aditya Kumar,MBA,2026-08-27,2026-09-08,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU008,Ananya Iyer,MCA,2026-09-20,,Issued
+B010,Computer Organization,Carl Hamacher,Computer Science,5,3,STU021,Farhan Ali,MCA,2026-09-28,,Issued
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU025,Gautam Roy,MBA,2026-08-02,2026-08-22,Returned
+B003,Introduction to Algorithms,Thomas H. Cormen,Programming,6,2,STU004,Divya Nair,MBA,2026-10-08,,Issued
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU009,Rohit Menon,BCA,2026-09-14,2026-09-23,Returned
+B010,Computer Organization,Carl Hamacher,Computer Science,5,3,STU012,Nisha Patel,BCA,2026-08-21,2026-09-09,Returned
+B010,Computer Organization,Carl Hamacher,Computer Science,5,3,STU023,Harish Kumar,BCA,2026-10-18,2026-11-05,Returned
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU001,Arun Kumar,MCA,2026-09-08,2026-09-13,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU005,Kiran Reddy,MCA,2026-08-15,2026-09-03,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU005,Kiran Reddy,MCA,2026-09-06,2026-09-18,Returned
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU007,Vikram Singh,MBA,2026-10-04,2026-10-07,Returned
+B014,Learning SQL,Alan Beaulieu,Database,5,3,STU003,Rahul Das,BCA,2026-09-05,,Issued
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU011,Aditya Kumar,MBA,2026-10-21,2026-10-28,Returned
+B015,Computer Graphics,Donald Hearn,Computer Science,4,3,STU024,Ayesha Khan,MCA,2026-10-10,2026-10-29,Returned
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU001,Arun Kumar,MCA,2026-08-10,2026-08-16,Returned
+B002,Database System Concepts,Abraham Silberschatz,Database,7,7,STU018,Kavya Nair,MBA,2026-09-17,2026-09-23,Returned
+B005,Operating System Concepts,Abraham Silberschatz,Computer Science,7,4,STU014,Pooja Shah,MBA,2026-08-06,,Issued
+B012,Data Science from Scratch,Joel Grus,Data Science,5,5,STU002,Priya Sharma,MCA,2026-08-27,2026-09-01,Returned
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU012,Nisha Patel,BCA,2026-09-22,2026-09-28,Returned
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU008,Ananya Iyer,MCA,2026-11-11,2026-11-26,Returned
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU001,Arun Kumar,MCA,2026-11-03,2026-11-18,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU022,Swathi Rao,MBA,2026-09-04,,Issued
+B004,Computer Networks,Andrew S. Tanenbaum,Computer Science,6,6,STU023,Harish Kumar,BCA,2026-09-18,2026-10-05,Returned
+B007,Artificial Intelligence: A Modern Approach,Stuart Russell,Artificial Intelligence,5,4,STU008,Ananya Iyer,MCA,2026-11-13,2026-11-26,Returned
+B008,The C Programming Language,Brian W. Kernighan,Programming,8,2,STU010,Meera Joseph,MCA,2026-08-29,,Issued
+B013,Introduction to Java,Herbert Schildt,Programming,6,3,STU007,Vikram Singh,MBA,2026-09-12,,Issued
+B009,Discrete Mathematics,Kenneth H. Rosen,Mathematics,5,3,STU003,Rahul Das,BCA,2026-09-14,2026-09-28,Returned
+B018,Cloud Computing,Rajkumar Buyya,Cloud Computing,5,3,STU022,Swathi Rao,MBA,2026-09-12,2026-09-17,Returned
+B006,Clean Code,Robert C. Martin,Programming,5,5,STU009,Rohit Menon,BCA,2026-10-14,2026-10-24,Returned
